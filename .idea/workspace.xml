@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c714588-92d3-4202-9794-bda685b5d6ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ProjektSzczury" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1WG067HPNp5vWB0s1LGIGPsMXur" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@6bc0a427" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4783c259" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c714588-92d3-4202-9794-bda685b5d6ce" name="Default Changelist" comment="" />
+      <created>1578760445865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578760445865</updated>
+      <workItem from="1578760447852" duration="6909000" />
+      <workItem from="1578780789726" duration="5321000" />
+      <workItem from="1578847965292" duration="1062000" />
+      <workItem from="1578855065873" duration="5312000" />
+      <workItem from="1579029493030" duration="4873000" />
+      <workItem from="1579115548093" duration="13842000" />
+      <workItem from="1579206902962" duration="9267000" />
+      <workItem from="1579283333686" duration="7072000" />
+      <workItem from="1579343978414" duration="2543000" />
+      <workItem from="1579348102227" duration="7948000" />
+      <workItem from="1579390353919" duration="6813000" />
+      <workItem from="1579448120959" duration="16649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="201" width="800" height="684" key="#SQL_Dialects" timestamp="1578781151556">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="201" width="800" height="684" key="#SQL_Dialects/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578781151556" />
+    <state x="2338" y="198" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578781185209">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2338" y="198" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578781185209" />
+    <state x="2563" y="269" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579348090829">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2563" y="269" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579348090829" />
+    <state x="2613" y="298" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1579394852947">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2613" y="298" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579394852947" />
+    <state width="1294" height="286" key="GridCell.Tab.0.bottom" timestamp="1579483784199">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1294" height="286" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579483784199" />
+    <state width="1294" height="286" key="GridCell.Tab.0.center" timestamp="1579483784199">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1294" height="286" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579483784199" />
+    <state width="1294" height="286" key="GridCell.Tab.0.left" timestamp="1579483784199">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1294" height="286" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579483784199" />
+    <state width="1294" height="286" key="GridCell.Tab.0.right" timestamp="1579483784199">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1294" height="286" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579483784199" />
+    <state x="2659" y="357" width="487" height="380" key="NewPhpClassDialog" timestamp="1579394861834">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2659" y="357" width="487" height="380" key="NewPhpClassDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579394861834" />
+    <state x="2957" y="212" width="356" height="155" key="NewPhpFileDialog" timestamp="1579396000124">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2957" y="212" width="356" height="155" key="NewPhpFileDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579396000124" />
+    <state x="2559" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1579448327649">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="639" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1578760448574" />
+    <state x="2559" y="362" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579448327649" />
+    <state x="2493" y="99" width="774" height="882" key="find.popup" timestamp="1579473509509">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2493" y="99" width="774" height="882" key="find.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579473509509" />
+    <state width="923" height="158" key="javadoc.popup.new" timestamp="1579468007196">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="923" height="158" key="javadoc.popup.new/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579468007196" />
+    <state x="2468" y="227" key="run.anything.popup" timestamp="1578782991090">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2468" y="227" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578782991090" />
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1579355106421">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1579355106421" />
+  </component>
+</project>
